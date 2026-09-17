@@ -5,6 +5,32 @@
 
 เหมาะสำหรับทดลองใช้งานจริง หรือใช้เป็นตัวอย่างโปรเจกต์ CRUD ขนาดเล็ก
 
+## ตัวอย่างหน้าจอ
+
+<p align="center">
+  <img src="docs/login.png" alt="หน้าเข้าสู่ระบบ" width="360">
+</p>
+
+<p align="center"><em>หน้าเข้าสู่ระบบ</em></p>
+
+<p align="center">
+  <img src="docs/list.png" alt="หน้ารายการแจ้งซ่อม" width="360">
+</p>
+
+<p align="center"><em>หน้ารายการแจ้งซ่อม</em></p>
+
+<p align="center">
+  <img src="docs/create.png" alt="หน้าเพิ่มรายการ" width="360">
+</p>
+
+<p align="center"><em>หน้าเพิ่มรายการ</em></p>
+
+<p align="center">
+  <img src="docs/edit.png" alt="หน้าแก้ไขรายการ" width="360">
+</p>
+
+<p align="center"><em>หน้าแก้ไขรายการ</em></p>
+
 ## ความสามารถ
 
 - เข้าสู่ระบบก่อนใช้งานหน้าจัดการข้อมูล
@@ -37,6 +63,11 @@ repair-system/
 │   ├── init.php
 │   ├── header.php
 │   └── footer.php
+├── docs/
+│   ├── login.png
+│   ├── list.png
+│   ├── create.png
+│   └── edit.png
 ├── index.php
 ├── create.php
 ├── edit.php
